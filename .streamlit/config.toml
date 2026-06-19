@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#0E7C66"
+backgroundColor = "#FBFAF7"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#16161F"
+font = "sans serif"
+
+[server]
+# Keep uploads modest; this app reads from the local store, not user uploads.
+maxUploadSize = 50

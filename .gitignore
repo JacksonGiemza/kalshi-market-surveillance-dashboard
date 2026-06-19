@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+
+# Local store and raw snapshots are regenerable build artifacts.
+# A seed snapshot and a prebuilt store ship with this repo; remove these
+# ignores if you want to version your own data.
+# data/kalshi.duckdb
+# data/snapshots/*.csv
+# data/snapshots/*.parquet
