@@ -7,6 +7,8 @@ views can be switched on later with no change to ingestion.
 
 ---
 
+https://kalshi-market-surveillance-dashboard-dmeh9hwayzu5f2gdefghtf.streamlit.app/
+
 ## Quickstart
 
 ```bash
